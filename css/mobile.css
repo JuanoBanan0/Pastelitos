@@ -1,0 +1,13 @@
+@media (max-width: 600px) {
+
+.products{
+    display: inherit;
+    height: auto;
+}
+
+.main_section{
+    text-align: center;
+    justify-items: center;
+}
+
+}
